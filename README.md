@@ -1,4 +1,4 @@
-# Kintsugi CLI Application
+# AutoKintsugi CLI
 
 This CLI application is designed to support smaller Vault Operators (VOs) participating in the Kintsugi ecosystem. Its purpose is to help manage exposures to multiple crypto assets, automate self-issuing, harvesting rewards, and farming BTC. By providing these capabilities, the application aims to make running small VOs more attractive, thereby increasing network issuance while maintaining decentralization.
 
