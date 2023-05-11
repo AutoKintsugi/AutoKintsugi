@@ -37,8 +37,8 @@ Follow these steps to install and set up the application:
 https://youtu.be/7yhKwmyIb3E
 
 To start the application, run the following command:
-<!-- yarn start
- -->
+**yarn start
+**
 
 ## Scripts
 
