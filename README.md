@@ -33,6 +33,9 @@ Follow these steps to install and set up the application:
 
 ## Usage
 
+## Demo
+https://youtu.be/7yhKwmyIb3E
+
 > :warning: Use this application at your own risk. We take no responsibility for any loss of funds.
 
 > :warning: Poor performance may occur if the WSS RPC endpoints are busy or slow. Consider changing the `.env` RPC configuration if you experience performance issues.
